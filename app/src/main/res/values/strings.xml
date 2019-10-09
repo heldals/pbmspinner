@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="PilihanNasi">
+        <item>Nasi Goreng</item>
+        <item>Nasi Ayam</item>
+        <item>Nasi Pecel</item>
+    </string-array>
+</resources>
